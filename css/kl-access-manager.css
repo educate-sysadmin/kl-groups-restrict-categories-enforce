@@ -1,0 +1,6 @@
+/* General styling, including klfat section */
+div.klam { border: solid 1px steelblue; padding: 0.5em; margin-bottom: 2em; }
+/*.klam_klfat { border: solid 1px silver; }*/
+.klam .klfat_table th, .klam .klfat_table td { border: solid 1px Lavender; padding: 3px; }
+.klam .klfat_control input, input.klam:not(.klam-run), input.klfat-submit { background-color: grey; padding: 4px; }
+.klam input.klfat-submit-delete { font-weight: bold; }
